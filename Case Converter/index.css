@@ -1,0 +1,16 @@
+#text-area {
+    width: 450px;
+    height: 450px;
+}
+#upper-case {
+    background: coral;
+}
+#lower-case {
+    background: coral;
+}
+#proper-case {
+    background: coral;
+}
+#sentence-case {
+    background: coral;
+}
